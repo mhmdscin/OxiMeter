@@ -28,6 +28,6 @@ I have used [aromring](https://github.com/aromring/MAX30102_by_RF)'s algorithm t
 
 The USB-serial driver for Xamarin.Android is from [officialdoniald](https://github.com/officialdoniald/Xamarin.Android.SerialPort)
 
-And Finally the application icon is from [MedicalWP](https://iconarchive.com/show/medical-icons-by-medicalwp/Cardiology-red-icon.html)
+And Finally the application's icon is from [MedicalWP](https://iconarchive.com/show/medical-icons-by-medicalwp/Cardiology-red-icon.html)
  
 
