@@ -5,7 +5,9 @@ This is a project to measure bloods oxygen level using a Max30102 controlled by 
 ## Hardware
 
 1- Arduino (Uno - Micro or any other Arduino with USB port)
+
 2- Max30102 Pulse Oximeter
+
 3- an android phone or tablet with USB-otg capability
 
 Connect the Max30102 to Arduino using I2C bus, the software also depend on interrupts from the max chipset to know when the new data available so connect the interrupt pin on Max to pin A3 on Arduino (you can use other pins but you should change the program -line 45 /Arduino_Max30102/Arduino_Max30102.ino)
